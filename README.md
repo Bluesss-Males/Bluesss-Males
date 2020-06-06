@@ -1,8 +1,6 @@
 # Bluesss-Males
 
-
-$ apt update
-$ apt upgrade
+$ apt update $$ apt upgrade
 $ apt install git  
 $ git clone https://github.com/Bluesss-Males/wifi-hacker  
 $ ls  
